@@ -16,7 +16,7 @@
 ## Overview
 
 ### The Dice Roller
-- This website made up of a page with titles, dice for two players, and a roll dice button.
+- This website is made up of a fully responsive page with headings, dice for two players, and a roll dice button.
 - When the button is clicked, the dice are thrown randomly.
 - The h1 and h3 announce a winner depending on which player has a higher value.
 
